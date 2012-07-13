@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Myapp</string>
+    <string name="hello">hello</string>
+    <string-array name="symbols">
+        <item >QCOM</item>
+        <item >AAPL</item>
+    </string-array>
+        
+    
+    
+</resources>
